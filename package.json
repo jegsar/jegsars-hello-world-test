@@ -1,0 +1,27 @@
+{
+  "name": "jegsars-hello-world-test",
+  "version": "1.0.0",
+  "description": "This is a test npm module to print hello world on every single console log",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jegsar/jegsars-hello-world-test.git"
+  },
+  "keywords": [
+    "Hello",
+    "World",
+    "Test"
+  ],
+  "author": "jegsar@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jegsar/jegsars-hello-world-test/issues"
+  },
+  "homepage": "https://github.com/jegsar/jegsars-hello-world-test#readme",
+  "dependencies": {
+    "cli-color": "^1.0.0"
+  }
+}
